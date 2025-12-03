@@ -1,0 +1,42 @@
+Purpose: Discover patterns and insights from customer behavior
+Audience: Data team + business stakeholders
+
+What to include
+
+1️⃣ Overview of Customer Behavior
+
+Distribution: Purchase_Frequency, Average_Order_Value, Lifetime_Value
+
+Time-based behavior: Preferred_Purchase_Times, Season
+
+2️⃣ Regional Insights
+
+Which regions perform best?
+
+Which regions have highest churn risk?
+
+3️⃣ Category + Product Patterns
+
+Most popular category
+
+Category driving highest churn probability
+
+4️⃣ Churn Probability Analysis
+
+Visualize churn trends across segments
+
+Identify at-risk groups
+
+5️⃣ Segment Customers
+Use 2–3 business variables (example):
+
+High vs low Lifetime_Value
+
+High vs low Purchase_Frequency
+
+High vs low Churn_Probability
+
+👉 Visuals: box plots, bar charts, heatmaps, scatter plots
+👉 Markdown: “What does this reveal?” in business language
+
+Output: Insights → feed directly into strategy notebook
